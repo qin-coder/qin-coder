@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hello, I'm Xuwei Qin
 
-<!--
-**qin-coder/qin-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Master's graduate in Computer Science (Informatik) from Humboldt University of Berlin, with a strong foundation in software development, data engineering, and machine learning.
 
-Here are some ideas to get you started:
+I combine practical experience in backend and frontend development with a research-driven mindset, having worked on projects involving **Reinforcement Learning**, **automated testing**, and **ETL pipeline design**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⚙️ Tech Stack Highlights
+
+**Languages & Frameworks**  
+- Java, Python, TypeScript, SQL  
+- Spring Boot, Next.js, React, Vue 3, Node.js  
+
+**Data & BI Engineering**  
+- Informatica PowerCenter & Data Quality  
+- Data Warehouse Design, ETL pipelines  
+- Power BI for interactive dashboards  
+
+**Tools & Concepts**  
+- Agile Methods (Scrum, Kanban)  
+- Git, GitHub, Docker  
+- Machine Learning, Reinforcement Learning  
+
+---
+
+## 💻 Projects & Research
+
+- 📘 **Master Thesis**: Combined **Reinforcement Learning** with **EvoSuite** (automated Java testing tool) to enhance test coverage.
+- 🛠️ Developed scalable ETL processes for 100+ data sources using **Informatica**, ensuring high data integrity and performance.
+- 💡 Built web applications with **React + Next.js**, applying responsive UI/UX and RESTful API design.
+
+---
+
+## 🧠 Currently Interested In
+
+- Front-end development
+-Java development
+
+---
+
+## 📫 Let's Connect
+
+📧 Email: [qinxuwei15@gmail.com](mailto:qinxuwei15@gmail.com)  
+
+🇩🇪 Fluent in English and German (DSH2 / C1)
+
+---
+
+
