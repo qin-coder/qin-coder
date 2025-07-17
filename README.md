@@ -43,7 +43,7 @@ I combine practical experience in backend and frontend development with a resear
 
 📧 Email: [qinxuwei15@gmail.com](mailto:qinxuwei15@gmail.com)  
 
-🇩🇪 Fluent in English and German (DSH2 / C1)
+Fluent in English and German (DSH2 / C1)
 
 ---
 
